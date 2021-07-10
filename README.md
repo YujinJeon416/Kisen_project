@@ -139,4 +139,4 @@ API: Google API, summernote, daum API, kakaoPay API, 이니시스 API,  NAVER AP
 
 # 9. 별첨
 
-[YujinJeon416/Kisen_project](https://github.com/YujinJeon416/Kisen_project)
+https://www.notion.so/devjeon416/Ki-sen-KH-511029a3b6c3400595fadaefe62ee0ee
