@@ -1,18 +1,10 @@
 ---
 
 # 1. PREVIEW & 개요
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6dccc039-9ee0-4530-a08f-1de6aa21cdb6/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6dccc039-9ee0-4530-a08f-1de6aa21cdb6/Untitled.png)
-
-  
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8994ebc1-afad-4486-a882-7b317656230b/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8994ebc1-afad-4486-a882-7b317656230b/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/98748e18-8e43-410b-a91a-ff89e23aa516/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/98748e18-8e43-410b-a91a-ff89e23aa516/Untitled.png)
-
-  
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f172ce3-ce84-45b5-af92-e7fea10a2e6d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f172ce3-ce84-45b5-af92-e7fea10a2e6d/Untitled.png)
+![Untitled (1)](https://user-images.githubusercontent.com/75886211/125153528-52c2c080-e18f-11eb-8d05-1967b56ec39a.png)
+![Untitled (2)](https://user-images.githubusercontent.com/75886211/125153527-52c2c080-e18f-11eb-939d-14d0ce9c8c87.png)
+![Untitled (3)](https://user-images.githubusercontent.com/75886211/125153526-51919380-e18f-11eb-91d7-a6f4caf08705.png)
+![Untitled (4)](https://user-images.githubusercontent.com/75886211/125153541-55bdb100-e18f-11eb-8fc3-3f7c8974cf3b.png)
 
 [https://youtu.be/jg3SRJwyh5Q](https://youtu.be/jg3SRJwyh5Q)
 
@@ -75,7 +67,7 @@ K-pop의 Identity를 Sense있게 실현합니다.
 
 # 5. 핵심 구현 기술
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ceed38d1-17a0-48bc-9a76-fbdee5924f68/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ceed38d1-17a0-48bc-9a76-fbdee5924f68/Untitled.png)
+![Untitled (5)](https://user-images.githubusercontent.com/75886211/125153540-55bdb100-e18f-11eb-90b6-9050f360d5cd.png)
 
 **화면설명:**
 
@@ -85,33 +77,28 @@ K-pop의 Identity를 Sense있게 실현합니다.
 
 부트스트랩을 사용하여 버튼과 폼을 만들었습니다. 반응형으로 웹사이트 크기를 줄여도 깨지지 않도록 구현하였습니다. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b789a77c-aad0-4d67-85df-1209a9370daa/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b789a77c-aad0-4d67-85df-1209a9370daa/Untitled.png)
+![Untitled (6)](https://user-images.githubusercontent.com/75886211/125153539-55251a80-e18f-11eb-852d-6612ed1b149d.png)
+![Untitled (7)](https://user-images.githubusercontent.com/75886211/125153538-55251a80-e18f-11eb-9ea5-419ef0c70b96.png)
+![Untitled (8)](https://user-images.githubusercontent.com/75886211/125153537-548c8400-e18f-11eb-88e1-6980c3c91b22.png)
+![Untitled (9)](https://user-images.githubusercontent.com/75886211/125153536-548c8400-e18f-11eb-898b-855be71cf5cc.png)
+![Untitled (10)](https://user-images.githubusercontent.com/75886211/125153535-53f3ed80-e18f-11eb-847a-33397ba33ba9.png)
 
 **화면설명:**
 
 수요조사폼과 입금폼 만들기 페이지 입니다. 부트스트랩으로 만들었으며 반응형으로 크기를 줄여도 화면비율이 깨지지 않습니다. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aac81df2-6481-420f-96fe-ef8b0d9e5804/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aac81df2-6481-420f-96fe-ef8b0d9e5804/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9e5316f2-2cb0-4b0b-be97-98683f24d561/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9e5316f2-2cb0-4b0b-be97-98683f24d561/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/95726be8-5eab-441d-beca-62861a70f583/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/95726be8-5eab-441d-beca-62861a70f583/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b1d4bab3-4b6f-4ea2-be0e-886cd6d74072/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b1d4bab3-4b6f-4ea2-be0e-886cd6d74072/Untitled.png)
 
 **구현기능설명**
 
 부트스트랩으로 만든 수요조사폼과 입금폼으로 이미지를 넣을 수 있다는 것이 특징입니다.  이미지 삽입은 POST방식으로 맵에 담아 처리하였습니다. 대표이미지와 상세이미지로 나누어 저장할 수 있도록 구현하였습니다. 수요조사 폼을 작성 후 제출 시 update를 통해 판매량이 1씩 증가하도록 구현하였습니다. 입금폼 제출시 이메일로 구매상품 정보를 구글 email API를 통해 구매자의 이메일로 보낼 수 있도록 구현하였습니다. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40bb08ca-ab6d-4959-a852-5f553ba5289d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40bb08ca-ab6d-4959-a852-5f553ba5289d/Untitled.png)
+![Untitled (11)](https://user-images.githubusercontent.com/75886211/125153533-53f3ed80-e18f-11eb-8aa7-7816a68921ad.png)
+![Untitled (12)](https://user-images.githubusercontent.com/75886211/125153532-535b5700-e18f-11eb-9785-3e6d4ac3b3ce.png)
+![Untitled (13)](https://user-images.githubusercontent.com/75886211/125153531-535b5700-e18f-11eb-8bd1-ad0d6796a3ec.png)
 
 **화면설명:**
 
 마이페이지에서 내가 만든 폼을 볼 수 있습니다. 수정하기와 삭제하기 버튼이 있어서 수정과 삭제가 가능합니다. 
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cce9432a-b93d-420c-a946-c9b484b1473e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cce9432a-b93d-420c-a946-c9b484b1473e/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e59eed46-d965-4974-bfcc-ba2041fe2c65/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e59eed46-d965-4974-bfcc-ba2041fe2c65/Untitled.png)
 
 **구현기능설명**
 
